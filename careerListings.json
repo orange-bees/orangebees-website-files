@@ -1,15 +1,94 @@
 [
   {
-  "title": "SAP Programmer Analyst",
-  "employment": "Full-time/ W2, no subcontracting",
+  "title": "SAP & Cloud Programmer/Business Specialist",
+  "employment": "Full-time W2/ no subcontracting",
   "seniority": "Senior Level",
-  "link": "SAP-Programmer061919",
+  "link": "SAPCloud062819",
   "functions": "Information Technology",
   "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or the equivalent of 4 years of experience in an IT application or Infrastructure profession.",
   "scope": "Facilitates the delivery and support of the development portion of projects/programs within specified functional area(s) including Materials Management, Launch and/or Outbound Logistics.   Coordinates and takes the lead role for the technical/functional development and support of IT applications in his/her area of responsibility. Coordinates all development aspects including reports, interfaces, conversion programs, database design and creation, enhancements. May also include SAP Portal development, ABAP, SAP UI5/Fiori, JAVA web-dynpro, Cloud Architecture and Cloud Platforms (Microsoft Azure, Amazon Web Services (AWS), Openstack & OpenShift).   Provides accurate estimates based on design documents, including data mapping, and interface models.  ",
   "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
   "responsibilities": [
+    "Collaborates closely with the business to understand business requirements.",
     "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions.",
+    "Provides support for difficult and complex system environments.",
+    "Drives small to medium sized projects with planning, development and implementation of system solutions.",
+    "Coordinates activities simultaneously for multiple projects.",
+    "Uses ITPM Agile methodology effectively when performing all tasks.",
+    "Meets with decision makers, systems owners, and end users to define business requirements and systems goals, and identify and resolve business systems issues.",
+    "Ensures compatibility and interoperability of in-house computing systems.",
+    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
+    "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
+    "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
+    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
+    "Demonstrates knowledge of Cloud Architecture, PaaS, IaaS to accomplish planning, development, testing and implementation and operations of system solutions.",
+    "Leads technology decisions, articulates alternatives and direction to Senior IT and Management when needed.",
+    "Performs other duties as assigned by Operations Supervisor."
+  ],
+  "experience": [
+    "5+ years of experience planning, analyzing, designing, developing, testing, implementing, documenting, and training in a variety of SAP areas (preferably Materials Management, Launch and/or Outbound Logistics).",
+    "5+ years programming experience using a variety of languages and technologies (preferably ABAP/4, SAP UI5/Fiori, SAP BI/BW, Data Warehouses, C, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX, MS Azure, AWS, GCP/G Suite, Open Shift).",
+    "5+ years of project management experience.",
+    "5+ years of experience working in a customer service orientated environment.",
+    "5+ years of experience working in a team-oriented, collaborative environment."
+  ],
+  "knowledge": [
+    "3+ years of experience designing, implementating and supporting IT solutions.",
+    "3+ years of experience with IT governance and system development life cycle.",
+    "Basic business experience preferably in the area of assigned responsibility.",
+    "Basic knowledge of database, operating systems and IT relevant infrastructure environment."
+  ]
+},
+  {
+  "title": "SAP Programmer Analyst",
+  "employment": "6 Month Contract W2/ no subcontracting",
+  "seniority": "Mid-Level",
+  "link": "SAPProgrammer062819",
+  "functions": "Information Technology",
+  "education": "BA/BS in Information Technology or Computer Science or the equivalent of 4 years professional experience in IT Applications development and support",
+  "scope": "Facilitates the delivery and support of the development portion of projects/programs within specified functional area(s).   Coordinates and takes the lead role for the technical/functional development and support of IT applications in his/her area of responsibility. Coordinates all development aspects including reports, interfaces, conversion programs, database design and creation, enhancements. May also include SAP Portal development, ABAP, SAP UI5/Fiori, and JAVA web-dynpro.   Provides accurate estimates based on design documents, including data mapping, and interface models.  ",
+  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
+  "responsibilities": [
+    "Collaborates closely with the business to understand business requirements.",
+    "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions.",
+    "Provides support for difficult and complex system environments.",
+    "Provides support, assistance, and training to users.",
+    "Drives small to medium sized projects with planning, development and implementation of system solutions",
+    "Simultaneously coordinates activities for multiple projects.",
+    "Effectively uses ITPM Agile methodology in performing all tasks.",
+    "Meets with decision makers, systems owners, and end users to define business requirements and systems goals, and identify and resolve business systems issues.",
+    "Ensures compatibility and interoperability of in-house computing systems.",
+    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
+    "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
+    "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
+    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
+    "Performs other duties as assigned by Operations Supervisor."
+  ],
+  "experience": [
+    "Minimum 3 years experience in a variety of programming languages (preferably ABAP/4, SAP UI5/Fiori, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX).",
+    "Minimum 3 years experience in planning, analysis, design, testing, implementation, documenting and training of IT applications.",
+    "Minimum 3 years experience in project management.",
+    "Minimum 3 years experience working in a customer service orientated environment.",
+    "Minimum 3 years experience working in a team-oriented, collaborative environment."
+  ],
+  "knowledge": [
+    "5+ years of experience with design, implementation and support of IT solutions",
+    "5+ years of experience with experience with IT governance and system development life cycle",
+    "Basic business experience preferably in the area of assigned responsibility",
+    "Basic knowledge of database, operating systems and IT relevant infrastructure environment"
+  ]
+},
+  {
+  "title": "SAP Technical Programmer/Business Specialist",
+  "employment": "Full-time W2/ no subcontracting",
+  "seniority": "Mid-Level",
+  "link": "SAPTechnical062819",
+  "functions": "Information Technology",
+  "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or the equivalent of 4 years of experience in an IT application or Infrastructure profession.",
+  "scope": "Manages the full systems development life cycle of projects/programs within area of responsibility.  Coordinates and takes the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility including Warehouse Management, Yard Management, Quality Management, Plant Maintenance, and/or Inbound Logistics. Plans, designs, develops, and implements efficient IT systems in support of assigned organizational functions. Applies proven communication, analytical and problem-solving skills to help identify, communicate and resolve systems issues in order to maximize the benefit of IT systems investments.",
+  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
+  "responsibilities": [
+    "Performs planning, analysis, designing, requirements definition,  functional design, development, testing and implementation of IT solutions.",
     "Provides support for difficult and complex system environments.",
     "Provides support, assistance and training to users.",
     "Coordinates activities simultaneously for multiple projects.",
@@ -19,10 +98,11 @@
     "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
     "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
     "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
-    "Conducts research on software products to justify recommendations and to support purchasing efforts."
+    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
+    "Performs other duties as assigned by Operations Supervisor."
   ],
   "experience": [
-    "5+ years of programming experience using a variety of languages and technologies including ABAP/4, SAP UI5/Fiori, SAP BI/BW, Data Warehouses, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX, XSLT (preferred).",
+    "5+ years of programming experience using a variety of languages and technologies including ABAP/4, SAP UI5/Fiori, SAP BI/BW, Data Warehouses, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX, XSLT.",
     "5+ years of experience planning, analyzing, designing, testing, implementing, documenting and training in a variety of SAP areas, preferably Warehouse Management, Yard Management and/or Inbound Logistics.",
     "5+ years of project management experience.",
     "5+ years of experience working in a customer service orientated environment.",
@@ -33,7 +113,8 @@
     "5+ years of experience executing and communicating project plans.",
     "5+ years of knowledge of the Systems Development Life Cycle.",
     "5+ years of knowledge of IT infrastructure components - Operating Systems, Networks, Databases, Internet Technologies, etc.",
-    "3+ years of experience communicating ideas in both technical and user-friendly language. Basic knowledge of cost and budget control"
+    "3+ years of experience communicating ideas in both technical and user-friendly language.",
+    "Basic knowledge of cost and budget control"
   ]
 },
 {
