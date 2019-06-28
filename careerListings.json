@@ -7,7 +7,7 @@
   "functions": "Information Technology",
   "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or the equivalent of 4 years of experience in an IT application or Infrastructure profession.",
   "scope": "Facilitates the delivery and support of the development portion of projects/programs within specified functional area(s) including Materials Management, Launch and/or Outbound Logistics.   Coordinates and takes the lead role for the technical/functional development and support of IT applications in his/her area of responsibility. Coordinates all development aspects including reports, interfaces, conversion programs, database design and creation, enhancements. May also include SAP Portal development, ABAP, SAP UI5/Fiori, JAVA web-dynpro, Cloud Architecture and Cloud Platforms (Microsoft Azure, Amazon Web Services (AWS), Openstack & OpenShift).   Provides accurate estimates based on design documents, including data mapping, and interface models.  ",
-  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics. Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
+  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
   "responsibilities": [
     "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions.",
     "Provides support for difficult and complex system environments.",
@@ -103,43 +103,43 @@
       "1+ years of experience working with and steering external service providers."
     ]
   },
-  {
-    "title": "Mobility Software Engineer III",
-    "employment": "Full-time W-2/ Exempt, no subcontracting",
-    "seniority": "Senior level",
-    "link": "Mobility-Software061919",
-    "functions": "Information Technology",
-    "education": "BA/BS Degree in Business, Computer Science or Electrical Engineering preferred or the equivalent of 4 years professional IT related experience. MS degree (preferred).",
-    "scope": "Develops leading edge technologies and know-how from Industry, partner companies, local universities and internal partners into automotive concepts, then into project development and Integration processes. Identifies emerging technologies in order to build software and/or hardware prototypes and production ready solutions. Areas of focus include, but not limited to Vehicle IT, Mobility, Social Networks, web and other enabling technologies.",
-    "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. ",
-    "responsibilities": [
-      "Designs and develops native applications on Mobile platforms.",
-      "Defines and documents the design of functionality through use cases, business process flows, UI design, and UML modeling as necessary.",
-      "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
-      "Works with other developers to develop functionality following existing style and coding standards.",
-      "Reviews designs, demo prototypes and provides application support.",
-      "Defines the visualization and realization of future technologies, which will support the complete process from development of concepts and vision to full production ready solutions, which can be integrated rapidly into the automotive environment.",
-      "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
-      "Serves as internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
-      "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
-      "Analyzes business critical processes, evaluates and recommends improvements.",
-      "Measures performance of delivered services through set of agreed metrics. Manages appropriate action to make corrections so that all services agreements are met."
-    ],
-    "experience": [
-      "5+ years of technical experience in Information Technology to include 2+ years of experience in mobile technologies, web, vehicle IT with demonstrated strengths in software and hardware design, development, Integration and testing",
-      "Process/project management experience or training/certifications (preferred)."
-    ],
-    "knowledge": [
-      "Intermediate: Developing enterprise or client facing mobile applications",
-      "Intermediate: Mobile device management, application deployment and support",
-      "Expert: Object oriented programming (Java, Objective C, or Javascript)",
-      "Intermediate: Hands on development experience with XML GUI styling (for Android)",
-      "Expert: Experience with Eclipse or Xcode development environment ",
-      "Advanced: Implementation experience of software design patterns and best practices applicable to mobile development.",
-      "Intermediate: Understanding of mobile platforms, device manufacturers, mobile browsers, and device management.",
-      "Intermediate: Interface with REST Web Services and JSON/XML",
-      "Intermediate: Ability to support Android fragmentation and Android 2.2+, iOS, and HTML5"
-    ]
+{
+  "title": "Mobility Software Engineer II",
+  "employment": "Full-time/ W2, no subcontracting",
+  "seniority": "Senior Level",
+  "link": "Mobility-2-062519" ,
+  "functions": "Information Technology",
+  "education": "BA/BS Degree in Business, Computer Science or Electrical Engineering preferred or the equivalent of 4 years professional IT related experience. MS degree (preferred).",
+  "scope": "Develops leading edge technologies and know-how from Industry, partner companies, local universities and internal partners into automotive concepts, then into project development and Integration processes. Identifies emerging technologies in order to build software and/or hardware prototypes and production ready solutions.  Areas of focus include but not limited to Vehicle IT, Mobility, Social Networks, web and other enabling technologies. Serves as a technical expert and consultant to other engineers and developers. Has the ability to manage medium-scale enterprise-wide projects according to standard ITPM methodology.   ",
+  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\\n\\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.",
+  "responsibilities": [
+    "Manages the visualization and realization of future technologies which will support the complete process from development of concepts and vision to full production ready solutions which can be integrated rapidly into the automotive environment.",
+    "Investigates and evaluates emerging technologies to envision how they can be used to develop new strategic directions and competitive advantage for the team as needed.",
+    "Demonstrates extremely high technical capabilities in software and hardware development for emerging technologies.",
+    "Develops strategic and tactical awareness and planning of technology and resources necessary for successful completion of small and medium-scale projects.",
+    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
+    "Serves as internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
+    "Mentors developers and engineers on latest technologies and techniques.  Assists the team in process matters as related to systems development/support. Provides the necessary on the job training and development of associates/contractors within the team.",
+    "Plans, analyzes, designs (including functional design), and defines requirements, tests and implements solutions according to ITPM standards.",
+    "Simultaneously manages multiple small to medium sized project teams, (including budgets) according to standard ITPM, ECC or other project management methodologies.",
+    "Clearly and proactively communicates project plans, milestones and current status to Project Sponsor, Manager and Project Manager.",
+    "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
+    "Analyzes business critical processes, evaluates and recommends improvements.",
+    "Measures performance of delivered services through set of agreed metrics. Manages appropriate action to make corrections so that all services agreements are met.",
+    "Performs cost analysis for systems and determines most cost-effective way to solve business issues as related to systems development.",
+    "Manages medium-scale enterprise-wide projects.",
+    "Performs other duties as assigned by operations supervisor."
+  ],
+  "experience": [
+    "3+ years of technical experience in Information Technology to include 2+ years of experience in mobile technologies, web, vehicle IT with demonstrated strengths in software and hardware design, development, Integration and testing.\t"
+  ],
+  "knowledge": [
+    "5+ years knowledge of latest development technologies and design methods for platforms e.g. Apple iPhone, Windows Mobile, Android, Social Networking, Web, etc.",
+    "5+ years knowledge of how to integrate and test various hardware components and systems.",
+    "3-5 years knowledge of emerging technology concepts and products.",
+    "3-5 years knowledge of project management and proven leadership skills.",
+    "3-5 years of written/oral communication and presentation skills.",
+    "3-5 years of ability to Interface with the business to meet requirements and targets."
+]
   }
 ]
- 
