@@ -1,226 +1,166 @@
 [
   {
-  "title": "SAP & Cloud Programmer/Business Specialist",
-  "employment": "Full-time W2/ no subcontracting",
-  "seniority": "Senior Level",
-  "link": "SAPCloud062819",
+  "title": "Agile Project Manager ",
+  "employment": "Full-time/W2, Contract, no subcontracting",
+  "seniority": "Senior",
+  "link": "AgilePM071919",
   "functions": "Information Technology",
-  "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or the equivalent of 4 years of experience in an IT application or Infrastructure profession.",
-  "scope": "Facilitates the delivery and support of the development portion of projects/programs within specified functional area(s) including Materials Management, Launch and/or Outbound Logistics.   Coordinates and takes the lead role for the technical/functional development and support of IT applications in his/her area of responsibility. Coordinates all development aspects including reports, interfaces, conversion programs, database design and creation, enhancements. May also include SAP Portal development, ABAP, SAP UI5/Fiori, JAVA web-dynpro, Cloud Architecture and Cloud Platforms (Microsoft Azure, Amazon Web Services (AWS), Openstack & OpenShift).   Provides accurate estimates based on design documents, including data mapping, and interface models.  ",
-  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
+  "education": "Bachelor’s (BA/BS) degree in Business, Management Information Systems, Computer Science, or a related field is required or the equivalent of 8 years of Project Management experience.",
+  "scope": "The Project Manager will work directly with an internal team as well as (at times) vendors and third-party partners to develop joint project plans for our integration projects. Other duties of the Project Manager include planning and submitting recommendations to resolve discrepancies, taking action on issues of non-compliance, keeping lines of communication open among all project stakeholders, tracking deliverables, milestones and any decisions made regarding the request for changes and outstanding items.",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.\n",
   "responsibilities": [
-    "Collaborates closely with the business to understand business requirements.",
-    "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions.",
-    "Provides support for difficult and complex system environments.",
-    "Drives small to medium sized projects with planning, development and implementation of system solutions.",
-    "Coordinates activities simultaneously for multiple projects.",
-    "Uses ITPM Agile methodology effectively when performing all tasks.",
-    "Meets with decision makers, systems owners, and end users to define business requirements and systems goals, and identify and resolve business systems issues.",
-    "Ensures compatibility and interoperability of in-house computing systems.",
-    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
-    "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
-    "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
-    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
-    "Demonstrates knowledge of Cloud Architecture, PaaS, IaaS to accomplish planning, development, testing and implementation and operations of system solutions.",
-    "Leads technology decisions, articulates alternatives and direction to Senior IT and Management when needed.",
-    "Performs other duties as assigned by Operations Supervisor."
+    "Develop global standards for project management; project templates, status reporting, and governance.",
+    "Facilitate periodic stage gate reviews. Participate in a project governance team.",
+    "Responsible for key deliverables such as timely communication of project milestones, status reporting, change requests, and budget performance.",
+    "Responsible for meetings and planning sessions at various stages of the project lifecycle, as required.",
+    "Promote project management best practices; train IT and other functional groups on PM methodologies.",
+    "Work closely with business leaders and remain actively involved in sponsor/stakeholder management.",
+    "Establish and implement project management best practices.",
+    "Work with teams in resolving discrepancies, removing or mitigating roadblocks, acting on issues of non-compliance, and facilitating communication among all project stakeholders.",
+    "Ensure effective tracking of outstanding deliverables, milestones, and change requests. Provide regular status updates to project stakeholders."
   ],
   "experience": [
-    "5+ years of experience planning, analyzing, designing, developing, testing, implementing, documenting, and training in a variety of SAP areas (preferably Materials Management, Launch and/or Outbound Logistics).",
-    "5+ years programming experience using a variety of languages and technologies (preferably ABAP/4, SAP UI5/Fiori, SAP BI/BW, Data Warehouses, C, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX, MS Azure, AWS, GCP/G Suite, Open Shift).",
-    "5+ years of project management experience.",
-    "5+ years of experience working in a customer service orientated environment.",
-    "5+ years of experience working in a team-oriented, collaborative environment."
+    "Must have Agile project management experience, Scale Agile Methodology experience a big plus",
+    "Experience with Atlassian Toolset is a big plus",
+    "Any PM or Scrum Master certifications are a plus",
+    "Project Management Professional (PMP) Designation is preferred.",
+    "Plus 4 years of hands-on experience in project management, including expertise with project management tools. "
   ],
   "knowledge": [
-    "3+ years of experience designing, implementating and supporting IT solutions.",
-    "3+ years of experience with IT governance and system development life cycle.",
-    "Basic business experience preferably in the area of assigned responsibility.",
-    "Basic knowledge of database, operating systems and IT relevant infrastructure environment."
+    "Strong organization and time management skills.",
+    "Highly developed and influential communication, facilitation and presentation skills.",
+    "Team player with proven ability to facilitate project delivery through high-functioning teams.",
+    "Ability to scope and size work efforts effectively.",
+    "Ability to lead ad hoc teams of bright and highly motivated individuals."
   ]
 },
   {
-  "title": "SAP Programmer Analyst",
-  "employment": "6 Month Contract W2/ no subcontracting",
-  "seniority": "Mid-Level",
-  "link": "SAPProgrammer062819",
+  "title": "JAVA Developer ",
+  "employment": "Full-time/W2, contract, no subcontracting",
+  "seniority": "Mid to Junior Level ",
+  "link": "MidJavaDev071919",
   "functions": "Information Technology",
-  "education": "BA/BS in Information Technology or Computer Science or the equivalent of 4 years professional experience in IT Applications development and support",
-  "scope": "Facilitates the delivery and support of the development portion of projects/programs within specified functional area(s).   Coordinates and takes the lead role for the technical/functional development and support of IT applications in his/her area of responsibility. Coordinates all development aspects including reports, interfaces, conversion programs, database design and creation, enhancements. May also include SAP Portal development, ABAP, SAP UI5/Fiori, and JAVA web-dynpro.   Provides accurate estimates based on design documents, including data mapping, and interface models.  ",
-  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
+  "education": "BA/BS in Information Technology or Computer Science plus TWO years of working experience in IT Application Development or the equivalent of 6 years professional experience in IT Applications development and support",
+  "scope": "We are looking for a Java Developer with a high level of MVC Development experience and Spring experience is a plus. The person in this role must be system oriented with a strong ability to estimate and execute software tasks from inception to deployment. They must have Java REST endpoint development skills and must know some Java Script. ",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
   "responsibilities": [
-    "Collaborates closely with the business to understand business requirements.",
-    "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions.",
-    "Provides support for difficult and complex system environments.",
-    "Provides support, assistance, and training to users.",
-    "Drives small to medium sized projects with planning, development and implementation of system solutions",
-    "Simultaneously coordinates activities for multiple projects.",
-    "Effectively uses ITPM Agile methodology in performing all tasks.",
-    "Meets with decision makers, systems owners, and end users to define business requirements and systems goals, and identify and resolve business systems issues.",
-    "Ensures compatibility and interoperability of in-house computing systems.",
-    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
-    "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
-    "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
-    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
-    "Performs other duties as assigned by Operations Supervisor."
-  ],
-  "experience": [
-    "Minimum 3 years experience in a variety of programming languages (preferably ABAP/4, SAP UI5/Fiori, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX).",
-    "Minimum 3 years experience in planning, analysis, design, testing, implementation, documenting and training of IT applications.",
-    "Minimum 3 years experience in project management.",
-    "Minimum 3 years experience working in a customer service orientated environment.",
-    "Minimum 3 years experience working in a team-oriented, collaborative environment."
-  ],
-  "knowledge": [
-    "5+ years of experience with design, implementation and support of IT solutions",
-    "5+ years of experience with experience with IT governance and system development life cycle",
-    "Basic business experience preferably in the area of assigned responsibility",
-    "Basic knowledge of database, operating systems and IT relevant infrastructure environment"
-  ]
-},
-  {
-  "title": "SAP Technical Programmer/Business Specialist",
-  "employment": "Full-time W2/ no subcontracting",
-  "seniority": "Mid-Level",
-  "link": "SAPTechnical062819",
-  "functions": "Information Technology",
-  "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or the equivalent of 4 years of experience in an IT application or Infrastructure profession.",
-  "scope": "Manages the full systems development life cycle of projects/programs within area of responsibility.  Coordinates and takes the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility including Warehouse Management, Yard Management, Quality Management, Plant Maintenance, and/or Inbound Logistics. Plans, designs, develops, and implements efficient IT systems in support of assigned organizational functions. Applies proven communication, analytical and problem-solving skills to help identify, communicate and resolve systems issues in order to maximize the benefit of IT systems investments.",
-  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile ApplicationDevelopment, Web Application Development, and Data Analytics.Our client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. In this role, you will be responsible for coordinating and taking the lead role for the technical/functional development and support of SAP IT applications in his/her area of responsibility. To be considered for this role, you will have a Bachelors degree in Computer Science or other related discipline, and five or more years of experience planning, designing, developing, and implementing SAP applications. Experience within a manufacturing environment is strongly preferred.",
-  "responsibilities": [
-    "Performs planning, analysis, designing, requirements definition,  functional design, development, testing and implementation of IT solutions.",
-    "Provides support for difficult and complex system environments.",
-    "Provides support, assistance and training to users.",
-    "Coordinates activities simultaneously for multiple projects.",
-    "Uses ITPM Agile methodology effectively when performing all tasks.",
-    "Meets with decision makers, systems owners, and end users to define business requirements and systems goals, and identify and resolve business systems issues.",
-    "Ensures compatibility and interoperability of in-house computing systems.",
-    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems.",
-    "Creates systems models, specifications, diagrams and charts to provide direction to application developers.",
-    "Coordinates and performs in-depth tests, including end-user reviews, for modified and new systems.",
-    "Conducts research on software products to justify recommendations and to support purchasing efforts.",
-    "Performs other duties as assigned by Operations Supervisor."
-  ],
-  "experience": [
-    "5+ years of programming experience using a variety of languages and technologies including ABAP/4, SAP UI5/Fiori, SAP BI/BW, Data Warehouses, C++, JAVA, HTML, JSP, J2EE, SQL, Oracle, UNIX/LINUX, XSLT.",
-    "5+ years of experience planning, analyzing, designing, testing, implementing, documenting and training in a variety of SAP areas, preferably Warehouse Management, Yard Management and/or Inbound Logistics.",
-    "5+ years of project management experience.",
-    "5+ years of experience working in a customer service orientated environment.",
-    "5+ years of experience working in a team-oriented, collaborative environment."
-  ],
-  "knowledge": [
-    "5+ years of functional knowledge in systems in area of responsibility such as SAP R/3 related modules or production systems.",
-    "5+ years of experience executing and communicating project plans.",
-    "5+ years of knowledge of the Systems Development Life Cycle.",
-    "5+ years of knowledge of IT infrastructure components - Operating Systems, Networks, Databases, Internet Technologies, etc.",
-    "3+ years of experience communicating ideas in both technical and user-friendly language.",
-    "Basic knowledge of cost and budget control"
-  ]
-},
-{
-    "title": "Security Analyst IAM",
-    "employment": "Full-time/ W2, no subcontracting",
-    "seniority": "Mid-level",
-    "link": "Security-Analyst061919",
-    "functions": "Information Technology",
-    "education": "BA or BS degree in Computer Science, Information Technology, Science, Business, or the equivalent of 4 years professional related IT experience.",
-    "scope": "Facilitates the delivery support of DevOps User Stories within specified functional area(s). Serves as an Identity and Access Management (IAM) subject matter expert and consultant. Works with Product Owners and DevOps teams and within the global Identity and Access Management and Cyber Security organization to support initiatives and functional departments in all aspects of IAM.",
-    "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. ",
-    "responsibilities": [
-      "Supports the roll-out and operation of global IAM initiatives within the BMW Group for certain products, departments and locations.",
-      "Serves as a technical lead for small - medium sized initiatives as delegated by the Product Owner and Line Manager.",
-      "Serves as a consultant and subject matter expert on IT initiatives and products in IAM and IT Security related topics.",
-      "Researches and coordinates feasibility studies and makes recommendations on software products and services in support of improving business processes and cost savings.",
-      "Analyzes the requirements for IAM systems and processes and designs work orders for external IAM providers.",
-      "Qualifies sophisticated IAM incidents and requests and routes them to the respective global support groups.",
-      "Third level support for IAM applications.",
-      "Assists Product Owners and Line Managers, with the accountability for the system development, integrity, security and scalability in area of responsibility.",
-      "Completes technical documentation and test scripts.",
-      "Conducts unit and integration testing and supports the set-up of automated testing and continuous deployment environments.",
-      "Adheres to defined development standards and procedures in documenting, testing, reviews, and feasibility studies",
-      "Performs other duties as assigned by operations supervisor."
-    ],
-    "experience": [
-      "3+ years of experience working with Identity and Access Management technologies.",
-      "2+ years of experience driving products from concept and ideation through successful launch. ",
-      "2+ years working on a team employing standardized project delivery methods (Agile/Scrum development methods preferred)",
-      "1+ year experience in project management including an understanding of non-functional requirements."
-    ],
-    "knowledge": [
-      "3+ years of knowledge of authentication and credential management technologies and protocols (e.g. LDAP, oAuth, SAML, Kerberos, PGP, and SSL/TLS).",
-      "3+ years of knowledge of Authorization, Authentication and Credential management systems (e.g. Strong Authentication products and solutions, PKI solutions, Single Sign On solutions, Role Modeling and Provisioning).",
-      "3+ years of knowledge of scripting languages (e.g. Bash, Perl, and Python) ",
-      "Basic object-oriented architecture and design skills.",
-      "Basic understanding of ITIL and IT-Service-Management."
-    ]
-  },
-  {
-    "title": "Network Analyst WAN",
-    "employment": "6 Month Contract/ W2, no subcontracting",
-    "seniority": "Lead Analyst",
-    "link": "Network-Analyst061919",
-    "functions": "Information Technology",
-    "education": "BA/BS Degree in Information Technology or the equivalent of 4 years of professional IT experience. MS degree (preferred).",
-    "scope": "Provide a structured, managed, dependable, secure and cost effective network infrastructure and services for multiple locations in the Americas region.",
-    "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a short-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position. The ideal candidate will have project management experience in an enterprise environment, working specifically with WAN and managing service providers. Candidates won't need to travel but will need to have a flexible work schedule to accommodate the America's as well as Brazil, Canada and Mexico. This person will be the lead, working with a variety of business units to complete a migration of all new switches and circuits. ",
-    "responsibilities": [
-      "Serves as a network subject matter expert, especially within the area of WAN connectivity, including WAN routing protocols, MPLS, GLBP/HSRP, remote troubleshooting, acceleration and packet optimization, and SDN appliances.  ",
-      "Coordinates with multiple remote teams to include providers.",
-      "Supports and steers future ready strategies like Agile, cloud, scripting and automation, software defined networking, and other applicable technologies.",
-      "Recommends and facilitates quality improvement efforts, keeping up to date with current and emerging technology. ",
-      "Collaborates and participates with the global WAN community of practice for new strategies and products.",
-      "Designs, leads, executes, and/or participates in small short-term to enterprise-wide multi-year network infrastructure projects within network operations, including coordinating with multi-organization or multi-cultural groups.  Ensures projects are completed on-time and within budget.",
-      "Provides support for network operations including coordination of small and large scale changes with the appropriate operations groups and business groups.  Supports operations via on call, escalation and tier three level support, incident response, and/or problem management.",
-      "Performs other duties as assigned by Operations Supervisor."
-    ],
-    "experience": [
-      "3+ years of experience in Information Technology with a focus on networks to include 1+ years of technical experience in the network WAN field.",
-      "Process/project management experience or training/certifications (preferred)."
-    ],
-    "knowledge": [
-      "3+ years of experience with ITSM, CMDB and network tools.",
-      "3+ years of experience working with scripting, automation and software-defined networking.",
-      "1+ years of experience working within an Agile environment.",
-      "1+ years of experience working with and steering external service providers."
-    ]
-  },
-{
-  "title": "Mobility Software Engineer II",
-  "employment": "Full-time/ W2, no subcontracting",
-  "seniority": "Senior Level",
-  "link": "Mobility-2-062519" ,
-  "functions": "Information Technology",
-  "education": "BA/BS Degree in Business, Computer Science or Electrical Engineering preferred or the equivalent of 4 years professional IT related experience. MS degree (preferred).",
-  "scope": "Develops leading edge technologies and know-how from Industry, partner companies, local universities and internal partners into automotive concepts, then into project development and Integration processes. Identifies emerging technologies in order to build software and/or hardware prototypes and production ready solutions.  Areas of focus include but not limited to Vehicle IT, Mobility, Social Networks, web and other enabling technologies. Serves as a technical expert and consultant to other engineers and developers. Has the ability to manage medium-scale enterprise-wide projects according to standard ITPM methodology.   ",
-  "description": "Orange Bees is leader in the upstate region of South Carolina for its world class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\\n\\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.",
-  "responsibilities": [
-    "Manages the visualization and realization of future technologies which will support the complete process from development of concepts and vision to full production ready solutions which can be integrated rapidly into the automotive environment.",
-    "Investigates and evaluates emerging technologies to envision how they can be used to develop new strategic directions and competitive advantage for the team as needed.",
-    "Demonstrates extremely high technical capabilities in software and hardware development for emerging technologies.",
-    "Develops strategic and tactical awareness and planning of technology and resources necessary for successful completion of small and medium-scale projects.",
     "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
-    "Serves as internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
-    "Mentors developers and engineers on latest technologies and techniques.  Assists the team in process matters as related to systems development/support. Provides the necessary on the job training and development of associates/contractors within the team.",
-    "Plans, analyzes, designs (including functional design), and defines requirements, tests and implements solutions according to ITPM standards.",
-    "Simultaneously manages multiple small to medium sized project teams, (including budgets) according to standard ITPM, ECC or other project management methodologies.",
-    "Clearly and proactively communicates project plans, milestones and current status to Project Sponsor, Manager and Project Manager.",
+    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
+    "Partners with other developers to develop functionality following existing style and coding standards.",
+    "Reviews designs, demo prototypes and provides application support.",
+    "Defines the visualization and realization of future technologies.",
+    "Serves as an internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
     "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
     "Analyzes business critical processes, evaluates and recommends improvements.",
-    "Measures performance of delivered services through set of agreed metrics. Manages appropriate action to make corrections so that all services agreements are met.",
-    "Performs cost analysis for systems and determines most cost-effective way to solve business issues as related to systems development.",
-    "Manages medium-scale enterprise-wide projects.",
-    "Performs other duties as assigned by operations supervisor."
+    "Work closely with the architecture team for the design and review of development projects to ensure the work is in line with the overall design and strategy ",
+    "Participate in an Agile team and be actively involved in the full software development life cycle",
+    "Develop new and improve existing processes ",
+    "Create and perform unit tests and test automation"
   ],
   "experience": [
-    "3+ years of technical experience in Information Technology to include 2+ years of experience in mobile technologies, web, vehicle IT with demonstrated strengths in software and hardware design, development, Integration and testing.\t"
+    "Experience working in an Agile environment",
+    "Minimum 2 years’ experience working in a team-oriented, collaborative environment.",
+    "2+ years of technical experience in Information Technology. ",
+    "1+ years of experience in web with demonstrated strengths in software development, integration, and testing",
+    "2+ years of experience developing enterprise or client facing web applications.",
+    "2+ years of experience interfacing with REST endpoint development",
+    "2+ years of experience with Object oriented programming (Javascript).",
+    "Process/project management experience or training/certifications (preferred)."
   ],
   "knowledge": [
-    "5+ years knowledge of latest development technologies and design methods for platforms e.g. Apple iPhone, Windows Mobile, Android, Social Networking, Web, etc.",
-    "5+ years knowledge of how to integrate and test various hardware components and systems.",
-    "3-5 years knowledge of emerging technology concepts and products.",
-    "3-5 years knowledge of project management and proven leadership skills.",
-    "3-5 years of written/oral communication and presentation skills.",
-    "3-5 years of ability to Interface with the business to meet requirements and targets."
-]
-  }
+    "Core Java Knowledge",
+    "Java MVC Development (spring is a plus)",
+    "Frameworks",
+    "Must have Java REST endpoint development experience",
+    "Must know some JavaScript",
+    "Agile experience is a plus",
+    "Value experience more than formal education for this one",
+    "Strong SQL skills"
+  ]
+},
+  {
+  "title": "Senior Full-Stack Web Developer",
+  "employment": "Full-time/ W2",
+  "seniority": "Senior",
+  "link": "Fullstack071919",
+  "functions": "Information Technology",
+  "education": "BA/BS in Information Technology or Computer Science or the equivalent of 4 years professional experience in IT Applications development and support",
+  "scope": "We are looking for a full-stack developer with a high level of node.js and Angular 2+ experience. The person in this role must be system oriented with a strong ability to estimate and execute software tasks from inception to deployment. They must also be a strong programmer with more than 6 years of experience in writing code. Designs and develops overall architecture for web application using leading edge technologies and know-how from Industry, partner companies, local universities and internal partners into automotive concepts.",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
+  "responsibilities": [
+    "Design, develop, and implement JavaScript solutions leveraging Node.js for web applications.",
+    "Defines and documents the design of functionality through use cases, business process flows, UI design, and UML modeling as necessary.",
+    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
+    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
+    "Partners with other developers to develop functionality following existing style and coding standards.",
+    "Reviews designs, demo prototypes and provides application support.",
+    "Defines the visualization and realization of future technologies.",
+    "Serves as an internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
+    "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
+    "Analyzes business critical processes, evaluates and recommends improvements.",
+    "Work closely with the architecture team for the design and review of development projects to ensure the work is in line with the overall design and strategy ",
+    "Participate in an Agile team and be actively involved in the full software development life cycle ",
+    "Develop new and improve existing processes ",
+    "Create and perform unit tests and test automation"
+  ],
+  "experience": [
+    "Node.js experience is the key to this one, need high level of node experience",
+    "Angular 2+ experience. Need basic knowledge and willingness to learn more advanced angular skills",
+    "Value experience more than formal education",
+    "Experience developing RESTful APIs",
+    "Experience working in an Agile environment",
+    "2+ years of technical experience in Information Technology. ",
+    "2+ years of experience in web with demonstrated strengths in software development, integration, and testing",
+    "1+ years of experience deploying and supporting Web applications.",
+    "1+ years of experience interfacing with REST Web Services and JSON/XML",
+    "1+ years of experience monitoring and supporting performance of web applications and infrastructure."
+  ],
+  "knowledge": [
+    "Knowledge of object oriented programming (Objective C, C++, Javascript).",
+    "Basic knowledge of Linux Server administration, Version Control Systems.",
+    "Process/project management experience or training/certifications (preferred)."
+  ]
+},
+{
+  "title": "Senior Java Engineer ",
+  "employment": "Full-time/W2",
+  "seniority": "Senior",
+  "link": "JavaEngineer071919",
+  "functions": "Information Technology",
+  "education": "BA/BS in Information Technology or Computer Science plus 6 years of working experience in IT Application Development or the equivalent of 10 years professional experience in IT Applications development and support",
+  "scope": "We are looking for a Senior Java Enigneer with a high level of knowledge in writing Java REST API’s, Apache Camel, Large-Scale enterprise application experience, any front-end JavaScript experience and GraphQL experience or willingness to learn. The person in this role must be system oriented with a strong ability to estimate and execute software tasks from inception to deployment. They must have Java REST API development skills and must know some Java Script. ",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
+  "responsibilities": [
+    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
+    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
+    "Partners with other developers to develop functionality following existing style and coding standards.",
+    "Reviews designs, demo prototypes and provides application support.",
+    "Defines the visualization and realization of future technologies.",
+    "Serves as an internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
+    "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
+    "Analyzes business critical processes, evaluates and recommends improvements.",
+    "Work closely with the architecture team for the design and review of development projects to ensure the work is in line with the overall design and strategy ",
+    "Participate in an Agile team and be actively involved in the full software development life cycle ",
+    "Develop new and improve existing processes ",
+    "Create and perform unit tests and test automation"
+  ],
+  "experience": [
+    "Experience working in an Agile environment",
+    "Minimum 5 years’ experience working in a team-oriented, collaborative environment.",
+    "5+ years of technical experience in Information Technology. ",
+    "5+ years of experience in web with demonstrated strengths in software development, integration, and testing",
+    "5+ years of experience interfacing with REST API development",
+    "Any experience with Object oriented programming (Javascript).",
+    "Experience working with Large-Scale enterprise application",
+    "Experience with Apache Camel (Required)",
+    "GraphQUL Experience or willingness to learn quickly",
+    "Process/project management experience or training/certifications (preferred, but not required)."
+  ],
+  "knowledge": [
+    "Must know how to write Java REST API’s",
+    "Large-scale enterprise application experience",
+    "Any front-end JavaScript experience is a big plus"
+  ]
+}
+  
 ]
