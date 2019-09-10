@@ -1,81 +1,74 @@
 [
   {
-  "title": "Agile Project Manager ",
-  "employment": "Full-time/W2, Contract, no subcontracting",
-  "seniority": "Senior",
-  "link": "AgilePM071919",
+  "title": "Sr-Level .Net Developer",
+  "employment": "Full-time/W2",
+  "seniority": "Mid-Level",
+  "link": "NET_SR090919",
   "functions": "Information Technology",
-  "education": "Bachelor’s (BA/BS) degree in Business, Management Information Systems, Computer Science, or a related field is required or the equivalent of 8 years of Project Management experience.",
-  "scope": "The Project Manager will work directly with an internal team as well as (at times) vendors and third-party partners to develop joint project plans for our integration projects. Other duties of the Project Manager include planning and submitting recommendations to resolve discrepancies, taking action on issues of non-compliance, keeping lines of communication open among all project stakeholders, tracking deliverables, milestones and any decisions made regarding the request for changes and outstanding items.",
-  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.\n",
+  "education": "BS/MS degree in Computer Science, Engineering, MIS, or equivalent with programming experience",
+  "scope": "We are looking for experienced and ambitious .Net Developer to join our team. As a .NET Developer you will be involved in design, development, coding, customization, configuration, testing, and deployment in support of enterprise packaged solutions.",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
   "responsibilities": [
-    "Develop global standards for project management; project templates, status reporting, and governance.",
-    "Facilitate periodic stage gate reviews. Participate in a project governance team.",
-    "Responsible for key deliverables such as timely communication of project milestones, status reporting, change requests, and budget performance.",
-    "Responsible for meetings and planning sessions at various stages of the project lifecycle, as required.",
-    "Promote project management best practices; train IT and other functional groups on PM methodologies.",
-    "Work closely with business leaders and remain actively involved in sponsor/stakeholder management.",
-    "Establish and implement project management best practices.",
-    "Work with teams in resolving discrepancies, removing or mitigating roadblocks, acting on issues of non-compliance, and facilitating communication among all project stakeholders.",
-    "Ensure effective tracking of outstanding deliverables, milestones, and change requests. Provide regular status updates to project stakeholders."
+    "Utilize established development tools, guidelines and conventions including but not limited to ASP.NET, SQL Server, HTML, CSS, JavaScript, and C#/VB.NET",
+    "Prepare and maintain code for various .Net applications and resolve any defects in systems",
+    "Prepare test-based applications for various .Net applications.",
+    "Enhance existing systems by analyzing business objectives, preparing an action plan and identifying areas for modification and improvement",
+    "Manage defect tracking system and resolve all issues and prepare update for systems",
+    "Investigate and develop skills in new technologies",
+    "Create technical specifications and test plans",
+    "Monitor everyday activities of system and provide require support"
   ],
   "experience": [
-    "Must have Agile project management experience, Scale Agile Methodology experience a big plus",
-    "Experience with Atlassian Toolset is a big plus",
-    "Any PM or Scrum Master certifications are a plus",
-    "Project Management Professional (PMP) Designation is preferred.",
-    "Plus 4 years of hands-on experience in project management, including expertise with project management tools. "
+    "10+ years of design and/or development experience with .NET, C#, ASP.NET, Windows Forms and SQL Server in an n-tier architecture.",
+    "Experience with Web Services, WCF and Service Oriented Architecture a plus",
+    "Experience with concurrent development source control (Git) and continuous integration (Jenkins or Bamboo)",
+    "Experience working in an Agile environment (preferred)",
+    "Minimum 10 years’ experience working in a team-oriented, collaborative environment.",
+    "10+ years of technical experience in Information Technology. ",
+    "10+ years of experience in web with demonstrated strengths in software development, integration, and testing",
+    "10+ years of experience developing enterprise or client facing web applications."
   ],
   "knowledge": [
-    "Strong organization and time management skills.",
-    "Highly developed and influential communication, facilitation and presentation skills.",
-    "Team player with proven ability to facilitate project delivery through high-functioning teams.",
-    "Ability to scope and size work efforts effectively.",
-    "Ability to lead ad hoc teams of bright and highly motivated individuals."
+    "Understanding of Software Development Life Cycle and Agile methodologies.",
+    "Solution Design Patterns and Best Practices, e.g. SOA",
+    "Database design and development (Microsoft SQL Server)",
+    "Strong background in object-oriented development techniques"
   ]
 },
   {
-  "title": "JAVA Developer ",
-  "employment": "Full-time/W2, contract, no subcontracting",
-  "seniority": "Mid to Junior Level ",
-  "link": "MidJavaDev071919",
+  "title": "Mid-Level .Net Developer",
+  "employment": "Full-time/W2",
+  "seniority": "Mid-Level",
+  "link": "NET_MID090919",
   "functions": "Information Technology",
-  "education": "BA/BS in Information Technology or Computer Science plus TWO years of working experience in IT Application Development or the equivalent of 6 years professional experience in IT Applications development and support",
-  "scope": "We are looking for a Java Developer with a high level of MVC Development experience and Spring experience is a plus. The person in this role must be system oriented with a strong ability to estimate and execute software tasks from inception to deployment. They must have Java REST endpoint development skills and must know some Java Script. ",
+  "education": "BS/MS degree in Computer Science, Engineering, MIS, or equivalent with programming experience",
+  "scope": "We are looking for experienced and ambitious .Net Developer to join our team. As a .NET Developer you will be involved in design, development, coding, customization, configuration, testing, and deployment in support of enterprise packaged solutions.",
   "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
   "responsibilities": [
-    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
-    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
-    "Partners with other developers to develop functionality following existing style and coding standards.",
-    "Reviews designs, demo prototypes and provides application support.",
-    "Defines the visualization and realization of future technologies.",
-    "Serves as an internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
-    "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
-    "Analyzes business critical processes, evaluates and recommends improvements.",
-    "Work closely with the architecture team for the design and review of development projects to ensure the work is in line with the overall design and strategy ",
-    "Participate in an Agile team and be actively involved in the full software development life cycle",
-    "Develop new and improve existing processes ",
-    "Create and perform unit tests and test automation"
+    "Utilize established development tools, guidelines and conventions including but not limited to ASP.NET, SQL Server, HTML, CSS, JavaScript, and C#/VB.NET",
+    "Prepare and maintain code for various .Net applications and resolve any defects in systems",
+    "Prepare test-based applications for various .Net applications.",
+    "Enhance existing systems by analyzing business objectives, preparing an action plan and identifying areas for modification and improvement",
+    "Manage defect tracking system and resolve all issues and prepare update for systems",
+    "Investigate and develop skills in new technologies",
+    "Create technical specifications and test plans",
+    "Monitor everyday activities of system and provide require support"
   ],
   "experience": [
-    "Experience working in an Agile environment",
-    "Minimum 2 years’ experience working in a team-oriented, collaborative environment.",
-    "2+ years of technical experience in Information Technology. ",
-    "1+ years of experience in web with demonstrated strengths in software development, integration, and testing",
-    "2+ years of experience developing enterprise or client facing web applications.",
-    "2+ years of experience interfacing with REST endpoint development",
-    "2+ years of experience with Object oriented programming (Javascript).",
-    "Process/project management experience or training/certifications (preferred)."
+    "3+ years of design and/or development experience with .NET, C#, ASP.NET, Windows Forms and SQL Server in an n-tier architecture.",
+    "Experience with Web Services, WCF and Service Oriented Architecture a plus",
+    "Experience with concurrent development source control (Git) and continuous integration (Jenkins or Bamboo)",
+    "Experience working in an Agile environment (preferred)",
+    "Minimum 3 years’ experience working in a team-oriented, collaborative environment.",
+    "3+ years of technical experience in Information Technology. ",
+    "3+ years of experience in web with demonstrated strengths in software development, integration, and testing",
+    "3+ years of experience developing enterprise or client facing web applications."
   ],
   "knowledge": [
-    "Core Java Knowledge",
-    "Java MVC Development (spring is a plus)",
-    "Frameworks",
-    "Must have Java REST endpoint development experience",
-    "Must know some JavaScript",
-    "Agile experience is a plus",
-    "Value experience more than formal education for this one",
-    "Strong SQL skills"
+    "Understanding of Software Development Life Cycle and Agile methodologies.",
+    "Solution Design Patterns and Best Practices, e.g. SOA",
+    "Database design and development (Microsoft SQL Server)",
+    "Strong background in object-oriented development techniques"
   ]
 },
   {
@@ -119,47 +112,6 @@
     "Knowledge of object oriented programming (Objective C, C++, Javascript).",
     "Basic knowledge of Linux Server administration, Version Control Systems.",
     "Process/project management experience or training/certifications (preferred)."
-  ]
-},
-{
-  "title": "Senior Java Engineer ",
-  "employment": "Full-time/W2",
-  "seniority": "Senior",
-  "link": "JavaEngineer071919",
-  "functions": "Information Technology",
-  "education": "BA/BS in Information Technology or Computer Science plus 6 years of working experience in IT Application Development or the equivalent of 10 years professional experience in IT Applications development and support",
-  "scope": "We are looking for a Senior Java Enigneer with a high level of knowledge in writing Java REST API’s, Apache Camel, Large-Scale enterprise application experience, any front-end JavaScript experience and GraphQL experience or willingness to learn. The person in this role must be system oriented with a strong ability to estimate and execute software tasks from inception to deployment. They must have Java REST API development skills and must know some Java Script. ",
-  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
-  "responsibilities": [
-    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
-    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization.",
-    "Partners with other developers to develop functionality following existing style and coding standards.",
-    "Reviews designs, demo prototypes and provides application support.",
-    "Defines the visualization and realization of future technologies.",
-    "Serves as an internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development.",
-    "Maintains accurate, meaningful and updated technical and non-technical documentation pertaining to all aspects of area(s) of responsibility.",
-    "Analyzes business critical processes, evaluates and recommends improvements.",
-    "Work closely with the architecture team for the design and review of development projects to ensure the work is in line with the overall design and strategy ",
-    "Participate in an Agile team and be actively involved in the full software development life cycle ",
-    "Develop new and improve existing processes ",
-    "Create and perform unit tests and test automation"
-  ],
-  "experience": [
-    "Experience working in an Agile environment",
-    "Minimum 5 years’ experience working in a team-oriented, collaborative environment.",
-    "5+ years of technical experience in Information Technology. ",
-    "5+ years of experience in web with demonstrated strengths in software development, integration, and testing",
-    "5+ years of experience interfacing with REST API development",
-    "Any experience with Object oriented programming (Javascript).",
-    "Experience working with Large-Scale enterprise application",
-    "Experience with Apache Camel (Required)",
-    "GraphQUL Experience or willingness to learn quickly",
-    "Process/project management experience or training/certifications (preferred, but not required)."
-  ],
-  "knowledge": [
-    "Must know how to write Java REST API’s",
-    "Large-scale enterprise application experience",
-    "Any front-end JavaScript experience is a big plus"
   ]
 },
   {
@@ -318,6 +270,38 @@
   "knowledge": [
     "5+ years of Knowledge of project management",
     "Basic knowledge of database, operating systems and IT relevant infrastructure environment"
+  ]
+},
+  {
+  "title": "Angular 6+ Developer ",
+  "employment": "Full-time/W2",
+  "seniority": "Junior to Senior Level",
+  "link": "Angular6_JR_090919",
+  "functions": "Information Technology",
+  "education": "Bachelors degree in computer science, engineer, IT or related field. ",
+  "scope": "This role will involve managing a range of online projects to be on time, on budget and within the project scope. The following technologies are key to your successful application:",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
+  "responsibilities": [
+    "Defines and documents the design of functionality through use cases, business process flows, UI design, and UML modeling as necessary",
+    "Works on several development initiatives concurrently and provide subject matter expertise on customer implementations and product customization",
+    "Works with other developers to develop functionality following existing style and coding standards",
+    "Reviews designs, demo prototypes and provides application support",
+    "Defines the visualization and realization of future technologies, which will support the complete process from development of concepts and vision to full production ready solutions, which can be integrated rapidly into the automotive environment.",
+    "Serves as a primary point of contact for other engineers and specialists in the team to provide expert knowledge and troubleshooting skills.",
+    "Serves as internal consultant to other developers and engineers as needed, providing assistance in all phases of product life-cycle development."
+  ],
+  "experience": [
+    "Javascript, node.js, angular 6, 7 or 8, REACT, HTML, CSS",
+    "5+ years of experience with Object oriented programming (Java, Objective C, or Javascript).",
+    "1+ years of hands-on development experience with back-end programming languages (PHP, Python, Java, .NET, JavaScript, etc).",
+    "1+ years of experience interfacing with REST Web Services and JSON/XML",
+    "2+ years of experience using Ionic framework"
+  ],
+  "knowledge": [
+    "Intermediate: Interface with REST Web Services and JSON/XML",
+    "Intermediate: Ability to support Android fragmentation and Android 2.2+, iOS, and HTML5",
+    "Advanced: Implementation experience of software design patterns and best practices applicable to mobile development.",
+    "Intermediate: Developing enterprise or client facing mobile applications"
   ]
 }
 ]
