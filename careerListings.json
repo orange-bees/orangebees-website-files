@@ -1,5 +1,42 @@
 [
   {
+  "title": "Account Executive",
+  "employment": "Full-time/W2",
+  "seniority": "Executive",
+  "link": "AE091219",
+  "functions": "Information Technology, Sales, Software development",
+  "education": "Bachelors in Business Administration, Marketing, Management, or other related field of study",
+  "scope": "An Orange Bees Account Executive is a sales representative and account manager responsible for identifying, assessing, opening doors and assisting in closing new business within new and existing accounts. You will be expected to drive sales through new opportunities identified and sourced directly by your own efforts.  You will be the point of contact for a prospective client throughout the sales process and must be comfortable assessing client needs and handling difficult situations that arise while selling complex solutions. You will be supported by a technical support team who guides customers through consultative sales.  Candidates for the position must have field sales experience, and preferably have experience selling software professional services or similar services.",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
+  "responsibilities": [
+    "Hunt, assess, and open the door to new business opportunities",
+    "Build a sales pipeline while developing relationships with potential buyers",
+    "Educate and lead prospective buyers throughout the purchasing process",
+    "Develop customer relationships throughout client organizations to drive initial sales and encourage long-term customer relationships",
+    "Create and deliver accurate sales forecasts for sales funnel",
+    "Collaborating with various resources in technical, support, and operations teams"
+  ],
+  "experience": [
+    "Experience selling into the C-Suite",
+    "Preferred Professional and Technical Expertise",
+    "5+ years of professional services sales experience with a proven track record of success",
+    "Experience selling complex enterprise software services",
+    "Experience selling services to the “C-Suite” of clients and guiding clients through the purchasing process"
+  ],
+  "knowledge": [
+    "Excellent interpersonal, analytical, written, and presentation skills",
+    "Intellectually curious and creative",
+    "Coachable and collaborative",
+    "Marketing and Advertising domain expertise",
+    "Excellent problem-solving skills with a highly consultative approach",
+    "Utilizes all available resources to identify and apply best practices",
+    "Customer-focused with a proven sales methodology",
+    "Passionate to solve your client’s needs",
+    "Full accountability for sales process success",
+    "Attention to detail"
+  ]
+},
+  {
   "title": "Sr-Level .Net Developer",
   "employment": "Full-time/W2",
   "seniority": "Mid-Level",
