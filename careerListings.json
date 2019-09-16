@@ -152,43 +152,6 @@
   ]
 },
   {
-  "title": "Software QA Test Engineer ",
-  "employment": "Full-time, W2, contract renewable, no subcontracting",
-  "seniority": "Junior to Mid Level ",
-  "link": "softwareQA080619",
-  "functions": "Software Testing, QA Testing, Test Engineer",
-  "education": "Bachelor’s Degree (Computer Science or Information Systems preferred) or the equivalent of 4 years of related experience in Information Technology.",
-  "scope": "Responsible for the full development life cycle and resulting quality of the projects/programs within area of responsibility. Designs, Develops and implements all test plans and test cases through the use of test automation and requirements and data analysis. Ensures testing coverage of software developed by the team as an integral part of the Continuous Delivery process.",
-  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.\n",
-  "responsibilities": [
-    "Performs planning, analysis, designing, requirements definition, functional design, development, testing and implementation of IT solutions",
-    "Collaborates with both internal and external partners to build test strategies, plan testing activities and implement best practices for test data management.",
-    "Engineers automated tests and integrate them into the team’s continuous delivery pipeline.",
-    "Creates and perform manual tests, if necessary, as a fallback scenario",
-    "Contributes to problem solving and root cause analysis when defects occur.",
-    "Reviews and analyzes the effectiveness and efficiency of existing systems and develop strategies for improving or further leveraging these systems",
-    "Contributes meaningfully to the refinement of user stories to support acceptance test driven development.",
-    "Promotes test centric software development by educating and influencing teammates on the appropriate application of different testing methodologies, frameworks, and tools.",
-    "Ensures test coverage and regression testing of software releases.",
-    "Participates in agile ceremonies, communities of practice and continuous improvement efforts."
-  ],
-  "experience": [
-    "5+ years of experience performing IT system analysis and integration.",
-    "3+ years of experience working with software QA processes and best practices.",
-    "3+ years of experience utilizing test automation processes and tools including Selenium, Postman, Jira, Xray and Java/JS/Python (preferred).",
-    "3+ years of knowledge of testing concepts and methodologies, including unit testing, integration testing, API testing, user acceptance testing, regression, test automation, TDD, BDD, ATDD, test data management, Cucumber frameworks and Gherkin language and continuous delivery.",
-    "3+ years of experience demonstrating communication and organizational skills to work with successfully with developers, product owners and other stakeholders.",
-    "1+ years of experience working with IT security and risk assessment.",
-    "1+ years of experience working with application development technologies (Apache, J2EE, modern application development frameworks).",
-    "5+ years of experience with software development using a variety of languages including C# and .NET",
-    "1+ years of experience leading small technical teams/projects (preferred).",
-    "3+ years of experience working as part of a team using Agile methodology and Continuous Delivery practices."
-  ],
-  "knowledge": [
-    "Basic understanding of Authentication systems (Windows AD, LDAP, SSO Solutions, MFA)."
-  ]
-},
-  {
   "title": "JavaScript Developer ",
   "employment": "Full-time, W2",
   "seniority": "Junior Level",
@@ -260,53 +223,6 @@
     "Kubernetes",
     "Git",
     "Knowledge of AWS"
-  ]
-},
-  {
-  "title": "Business Analyst I",
-  "employment": "Full-time/W2, contract renewable, no subcontracting",
-  "seniority": "Mid to Senior Level",
-  "link": "BA080719",
-  "functions": "Information Technology, Business Analysis, IT Project Management",
-  "education": "BA or BS degree in Computer Science, Information Technology, Science, Business or equivalent with 3 to 5 years experience in IT Application or Infrastructure Profession.",
-  "scope": "Oversees the responsibility for business process analysis, cost/benefit analysis, design and simulation for smallmedium sized projects. Requires highest level understanding of organization's business processes and requirements.",
-  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.\n\nOur client, an innovative automotive manufacturing company, is looking for a talented individual for an opportunity in the Greenville/Spartanburg Area of South Carolina. This position is a long-term contract position with the possibility of multi-year extension and conversion to a full-time/permanent position.\n",
-  "responsibilities": [
-    "Partners with business units to analyze current operational procedures, identify problems, and learn specific input and output requirements such as forms of data input, how data is to be processed, and how the results will be managed.",
-    "Expert in current “as-is” process and works with the business to define the “to-be” process",
-    "Partners with the global network to ensure synergies with existing systems and alignment with group strategy.",
-    "Reviews and analyzes system capabilities, workflow, and scheduling limitations to determine if requested program or program change is possible within existing system - identifies and differentiates system configuration from programming solutions.",
-    "Prepares time and cost estimates for completing projects.",
-    "Writes detailed functional specifications for program development.",
-    "Performs and documents system configuration.",
-    "Coordinates system interface design and development.",
-    "Provides on-call support as needed.",
-    "Prepares/coordinates technical reports, process documentation, test plans, training needs assessment, and implementation plans.",
-    "Supports Department Manager, Process IT with the management of specific elements of projects to schedule following systems development methodology; accountable for efficient and maintainable results that meet business requirements.",
-    "Researches, coordinates feasibility studies and makes recommendations on process changes and automation in support of improving business processes and cost savings.",
-    "Ensures target achievement is consistently attained.",
-    "Creates process change by integrating new processes with existing ones.",
-    "Recommends and facilitates quality improvement efforts. Stays up to date on future innovations, technical trends and applies this to direct future changes. Has knowledge of the solutions available as well as best practices for the business processes.",
-    "Serves as an IT project manager for small-medium sized projects overseeing resources assigned, conduct status meetings, and effectively communicates the project status to stakeholders as delegated by the Department Manager, Process IT.",
-    "Develops project plans, administers the change control process and ensures that tasks are completed on time and within budget",
-    "Works closely with the business to understand the business requirements to determine the correct system design.",
-    "Prepares business process mapping and function design.",
-    "Prepares identification of gaps in the business process.",
-    "Analyzes business partner’s operations to understand their strengths and weaknesses to determine opportunities to automate processes and functions.",
-    "Assists and recommends business process redesign and documentation as needed.",
-    "Translates high level business requirements into functional specifications for IT development."
-  ],
-  "experience": [
-    "3 to 5 years of project leadership or system responsibility experience in an IT environment",
-    "3 to 5 years of experience as Systems Analysis",
-    "3 to 5 years experience working in a team-oriented, collaborative environme",
-    "5+ years experience in planning, analysis and design of IT solutions",
-    "5+ years experience with IT governance and system development life cycle",
-    "5+ years of business experience preferably in the area of assigned responsibility"
-  ],
-  "knowledge": [
-    "5+ years of Knowledge of project management",
-    "Basic knowledge of database, operating systems and IT relevant infrastructure environment"
   ]
 },
   {
