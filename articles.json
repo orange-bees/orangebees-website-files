@@ -37,6 +37,6 @@
         "date" : "October 10, 2018", 
         "link" : "https://itnext.io/angular-subjects-8ed5bf7c4f00",
         "title" : "Angular-Subjects",
-        "desc" : "BehaviorSubjects are a great way to pass data back forth between a large number of components."
+        "desc" : "BehaviorSubjects are a great way to pass data back and forth between a large number of components."
     }
 ]
