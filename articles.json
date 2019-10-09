@@ -9,7 +9,7 @@
     },
     {
         "author" : "John Baldwin", 
-        "jobTitle": "Principal Frontend Engineer",
+        "jobTitle": "Software Engineer",
         "date" : "June 20, 2019",
         "link" : "https://medium.com/@johnbaldwin/get-on-the-event-bus-vue-js-abcf63d7342d",
         "title" : "Get on the Event Bus: Vue.js", 
@@ -17,7 +17,7 @@
     },
     {
         "author" : "Jamie Gross",
-        "jobTitle": "Software Engineer",
+        "jobTitle": "Principal Frontend Engineer",
         "date" : "October 02, 2018", 
         "link" : "https://itnext.io/angular-custom-form-validation-bc513b45ccfa",
         "title" : "Angular-Custom Form Validation",
