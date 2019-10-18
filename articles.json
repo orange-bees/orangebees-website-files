@@ -2,16 +2,25 @@
     {
         "author": "Jamie Gross",
         "jobTitle": "Principal Frontend Engineer",
-        "featureImage": "feature1.png",
+        "featureImage": "vue.png",
         "date": "September 08, 2019",
         "title": "Implementing a Frontend with Micro-Components",
         "link": "https://itnext.io/micro-frontend-941a5f1a3e72",
         "desc": "Micro-components have huge potential for large scale, enterprise applications. See how I implemented my first one using Vue.js."
     },
     {
+        "author" : "John Yeary",
+        "jobTitle": "Senior Software Engineer",
+        "featureImage": "java.png",
+        "date" : "October 15, 2019", 
+        "link" : "https://blog.johnyeary.com/2019/10/multiple-java-persistence-api-jpa-persistence-xml-merging/",
+        "title" : "Multiple Java Persistence API (JPA)",
+        "desc" : "Java Persistence API (JPA) is a great technology for combining the power of Java and data persistence. The specification goes a long way from the days of using EJB 1.0 for data management, but still comes with some limitations."
+    },
+    {
         "author" : "John Baldwin", 
         "jobTitle": "Software Engineer",
-        "featureImage": "feature1.png",
+        "featureImage": "vue.png",
         "date" : "June 20, 2019",
         "link" : "https://medium.com/@johnbaldwin/get-on-the-event-bus-vue-js-abcf63d7342d",
         "title" : "Get on the Event Bus: Vue.js", 
@@ -20,7 +29,7 @@
     {
         "author" : "Jamie Gross",
         "jobTitle": "Principal Frontend Engineer",
-        "featureImage": "feature1.png",
+        "featureImage": "angular.png",
         "date" : "October 02, 2018", 
         "link" : "https://itnext.io/angular-custom-form-validation-bc513b45ccfa",
         "title" : "Angular-Custom Form Validation",
@@ -29,7 +38,7 @@
     {
         "author" : "Jamie Gross",
         "jobTitle": "Principal Frontend Engineer",
-        "featureImage": "feature1.png",
+        "featureImage": "angular.png",
         "date" : "October 09, 2018", 
         "link" : "https://itnext.io/angular-input-output-f0418ab4cc91",
         "title" : "Angular-Inputs and Outputs",
@@ -38,7 +47,7 @@
     {
         "author" : "Jamie Gross",
         "jobTitle": "Principal Frontend Engineer",
-        "featureImage": "feature1.png",
+        "featureImage": "rxjs.png",
         "date" : "October 10, 2018", 
         "link" : "https://itnext.io/angular-subjects-8ed5bf7c4f00",
         "title" : "Angular-Subjects",
