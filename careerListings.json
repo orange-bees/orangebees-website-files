@@ -1,32 +1,24 @@
-[
-  {
-    "title": "Junior/Mid/Senior Web Developer",
-    "employment": "Full-time/W2",
-    "seniority": "Junior/Mid/Senior",
-    "link": "WEB_DEVELOPER_01162020",
-    "functions": "Information Technology",
-    "education": "Bachelors in Computer Science/Computer Engineering/CIS/ or Code Camp certification. Depending on experience, education is not required.",
-    "scope": "This role will involve developing a range of projects to be on time, on budget and within the project scope. This position is specifically looking for a developer with proficiency in either Angular, VueJs, or React (with a higher priority in Angular and VueJs). This position is on-site only, no remote work. Candidate must be able to work independently or within a team. Position requires to be onsite with occasional travel to client sites. Contact switching is a highly desirable skillset.",
-    "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
-    "responsibilities": [
-      "Write frontend code in a clean and efficient manner",
-      "Communicate with other teammates respectably and be able to work on projects with a few developers",
-      "Visit client sites on occasion and represent the company in meetings"
-    ],
-    "experience": [
-      "1.5-2 years of experience with Enterprise applications",
-      "JavaScript",
-      "Angular, VueJs, or React",
-      "Experience working in an Agile environment (preferred)",
-      "Git and Git branching",
-      "NodeJs (preferred)",
-      "TypeScript (preferred)"
-    ],
-    "knowledge": [
-      "Understanding of Software Development Life Cycle and Agile methodologies.",
-      "Proficiency in latest JavaScript features",
-      "Proficiency in one of the above listed JavaScript frameworks",
-      "Proficiency in CSS/SCSS"
-    ]
-  }
-]
+{
+  "title": "Open Application",
+  "employment": "Fulltime",
+  "seniority": "Junior to Seniors Level",
+  "link": "OA021720",
+  "functions": "Information Technology",
+  "education": "BA/BS Degree in Information Technology, Computer Science or related field or the equivalent of 4 years of professional experience in an IT application.",
+  "scope": "We are always looking for talented individuals to join our team. If you are interested or want to learn more about our opportunities, please feel free to apply to our Open Application. ",
+  "description": "Orange Bees is a leader in the upstate region of South Carolina for its world-class software development. Established in 2013, Orange Bees, aim to improve the manufacturing, insurance, financial, association, and retail industries; where we have an extensive track record of success in Product Engineering, Enterprise Management, System Integration, Mobile Application Development, Web Application Development, and Data Analytics.",
+  "responsibilities": [
+    "Visit client sites on occasion and represent the company in meetings",
+    "Communicate with other teammates respectably and be able to work on projects with a few developers",
+    "Engage with other developers and participate in dev scrums and planning",
+    ""
+  ],
+  "experience": [
+    "Experience working in an Agile environment (preferred)",
+    "Initiative and the ability to work independently and in a team"
+  ],
+  "knowledge": [
+    "Understanding of Software Development Life Cycle and Agile methodologies",
+    "Initiative and the ability to work independently and in a team"
+  ]
+}
