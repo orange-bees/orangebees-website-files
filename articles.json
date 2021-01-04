@@ -1,12 +1,12 @@
 [
     {
         "author": "Jamie Gross",
-        "jobTitle": "Principal Frontend Engineer",
-        "featureImage": "vue.png",
-        "date": "September 08, 2019",
-        "title": "Implementing a Frontend with Micro-Components",
-        "link": "https://itnext.io/micro-frontend-941a5f1a3e72",
-        "desc": "Micro-components have huge potential for large scale, enterprise applications. See how I implemented my first one using Vue.js."
+        "jobTitle": "Principal Engineer",
+        "featureImage": "code.png",
+        "date": "December 28, 2020",
+        "title": "User Configurable Feature Design and Data Architecture",
+        "link": "https://itnext.io/user-configurable-feature-design-and-data-architecture-f9041e8e5e44",
+        "desc": "There are a few other examples that were more minimal in complexity, however, it seems many had at least a small business requirement for real-time user configurable data."
     },
     {
         "author" : "John Yeary",
@@ -16,6 +16,15 @@
         "link" : "https://blog.johnyeary.com/2019/10/multiple-java-persistence-api-jpa-persistence-xml-merging/",
         "title" : "Multiple Java Persistence API (JPA)",
         "desc" : "Java Persistence API (JPA) is a great technology for combining the power of Java and data persistence. The specification goes a long way from the days of using EJB 1.0 for data management, but still comes with some limitations."
+    },
+    {
+        "author": "Jamie Gross",
+        "jobTitle": "Principal Engineer",
+        "featureImage": "vue.png",
+        "date": "September 08, 2019",
+        "title": "Implementing a Frontend with Micro-Components",
+        "link": "https://itnext.io/micro-frontend-941a5f1a3e72",
+        "desc": "Micro-components have huge potential for large scale, enterprise applications. See how I implemented my first one using Vue.js."
     },
     {
         "author" : "John Baldwin", 
@@ -28,7 +37,7 @@
     },
     {
         "author" : "Jamie Gross",
-        "jobTitle": "Principal Frontend Engineer",
+        "jobTitle": "Principal Engineer",
         "featureImage": "angular.png",
         "date" : "October 02, 2018", 
         "link" : "https://itnext.io/angular-custom-form-validation-bc513b45ccfa",
@@ -37,7 +46,7 @@
     },
     {
         "author" : "Jamie Gross",
-        "jobTitle": "Principal Frontend Engineer",
+        "jobTitle": "Principal Engineer",
         "featureImage": "angular.png",
         "date" : "October 09, 2018", 
         "link" : "https://itnext.io/angular-input-output-f0418ab4cc91",
@@ -46,7 +55,7 @@
     },
     {
         "author" : "Jamie Gross",
-        "jobTitle": "Principal Frontend Engineer",
+        "jobTitle": "Principal Engineer",
         "featureImage": "rxjs.png",
         "date" : "October 10, 2018", 
         "link" : "https://itnext.io/angular-subjects-8ed5bf7c4f00",
