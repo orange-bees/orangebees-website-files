@@ -6,7 +6,8 @@
         "date": "December 28, 2020",
         "title": "User Configurable Feature Design and Data Architecture",
         "link": "https://itnext.io/user-configurable-feature-design-and-data-architecture-f9041e8e5e44",
-        "desc": "There are a few other examples that were more minimal in complexity, however, it seems many had at least a small business requirement for real-time user configurable data."
+        "desc": "There are a few other examples that were more minimal in complexity, however, it seems many had at least a small business requirement for real-time user configurable data.",
+        "tags": ["Architecture", "Mini White Paper"]
     },
     {
         "author" : "John Yeary",
@@ -15,7 +16,8 @@
         "date" : "October 15, 2019", 
         "link" : "https://blog.johnyeary.com/2019/10/multiple-java-persistence-api-jpa-persistence-xml-merging/",
         "title" : "Multiple Java Persistence API (JPA)",
-        "desc" : "Java Persistence API (JPA) is a great technology for combining the power of Java and data persistence. The specification goes a long way from the days of using EJB 1.0 for data management, but still comes with some limitations."
+        "desc" : "Java Persistence API (JPA) is a great technology for combining the power of Java and data persistence. The specification goes a long way from the days of using EJB 1.0 for data management, but still comes with some limitations.",
+        "tags": ["Java", "Mini White Paper"]
     },
     {
         "author": "Jamie Gross",
@@ -24,7 +26,8 @@
         "date": "September 08, 2019",
         "title": "Implementing a Frontend with Micro-Components",
         "link": "https://itnext.io/micro-frontend-941a5f1a3e72",
-        "desc": "Micro-components have huge potential for large scale, enterprise applications. See how I implemented my first one using Vue.js."
+        "desc": "Micro-components have huge potential for large scale, enterprise applications. See how I implemented my first one using Vue.js.",
+        "tags": ["Vue.js", "Architecture", "Mini White Paper"]
     },
     {
         "author" : "John Baldwin", 
@@ -33,7 +36,8 @@
         "date" : "June 20, 2019",
         "link" : "https://medium.com/@johnbaldwin/get-on-the-event-bus-vue-js-abcf63d7342d",
         "title" : "Get on the Event Bus: Vue.js", 
-        "desc" : "Getting on the event bus bandwagon may sound like a bad idea, you can look up articles with Event Bus in the title and easily find articles that conjure up scary phrases like \"anti-pattern\" and \"avoid at all costs\"."
+        "desc" : "Getting on the event bus bandwagon may sound like a bad idea, you can look up articles with Event Bus in the title and easily find articles that conjure up scary phrases like \"anti-pattern\" and \"avoid at all costs\".",
+        "tags": ["Vue.js", "Tutorial"]
     },
     {
         "author" : "Jamie Gross",
@@ -42,7 +46,8 @@
         "date" : "October 02, 2018", 
         "link" : "https://itnext.io/angular-custom-form-validation-bc513b45ccfa",
         "title" : "Angular-Custom Form Validation",
-        "desc" : "Custom validators can be quite tricky, but are extremely useful. An example of a fairly common requirement is password matching."
+        "desc" : "Custom validators can be quite tricky, but are extremely useful. An example of a fairly common requirement is password matching.",
+        "tags": ["Angular", "Tutorial"]
     },
     {
         "author" : "Jamie Gross",
@@ -51,7 +56,8 @@
         "date" : "October 09, 2018", 
         "link" : "https://itnext.io/angular-input-output-f0418ab4cc91",
         "title" : "Angular-Inputs and Outputs",
-        "desc" : "Simple and easy to follow tutorial of how to effectively user Input and Output features in Angular."
+        "desc" : "Simple and easy to follow tutorial of how to effectively user Input and Output features in Angular.",
+        "tags": ["Angular", "Tutorial"]
     },
     {
         "author" : "Jamie Gross",
@@ -60,6 +66,7 @@
         "date" : "October 10, 2018", 
         "link" : "https://itnext.io/angular-subjects-8ed5bf7c4f00",
         "title" : "Angular-Subjects",
-        "desc" : "BehaviorSubjects are a great way to pass data back forth between a large number of components."
+        "desc" : "BehaviorSubjects are a great way to pass data back forth between a large number of components.",
+        "tags": ["Angular", "Tutorial"]
     }
 ]
